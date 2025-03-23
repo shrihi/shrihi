@@ -6,7 +6,9 @@
   
 </div>  
 
+<div align="center">
 ## 💫 About Me
+</div>  
 
 👀 **Interests:** Data Science, Data Analysis, and Machine Learning  
 🌱 **Currently Learning:** Advanced techniques in data analysis and machine learning to solve real-world problems  
